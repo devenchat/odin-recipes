@@ -1,1 +1,2 @@
 # odin-recipes
+This project was pretty easy since I have already done this stuff before and am using the project as a refresher. The image for French Fries wasn't loading on my page but I am not trippin.
